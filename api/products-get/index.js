@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const data = require('../shared/product-data');
 
 module.exports = async function (context, req) {
